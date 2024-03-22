@@ -18,6 +18,6 @@
 ## Grupos de Estudos
 - [eXplainable AI](https://github.com/icmc-data/xai-group)
 - [Machine Learning Clássico](https://github.com/icmc-data/ml-study-group)
-- Processamento de Linguagem Natural
+- [Processamento de Linguagem Natural](https://github.com/icmc-data/nlp-study-group)
 ## Projetos e Competições 
 - Kaggle
