@@ -20,4 +20,4 @@
 - [Machine Learning Clássico](https://github.com/icmc-data/ml-study-group)
 - [Processamento de Linguagem Natural](https://github.com/icmc-data/nlp-study-group)
 ## Projetos e Competições 
-- Kaggle
+- [Steel Plate Defect Prediction](https://www.kaggle.com/competitions/playground-series-s4e3) (01/03 a 31/03)
