@@ -15,7 +15,7 @@
 <br>
 
 ## 2024.2
-## Curso de Python
+### Curso de Python
 - [Curso de Python para Ciência de Dados](https://github.com/icmc-data/Curso-de-Python-2024)
 ### Grupos de Estudos
 - Engenharia de Dados
