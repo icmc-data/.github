@@ -15,22 +15,3 @@
     <img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=Firefox-Browser&logoColor=white&logoWidth=25" />
   </a>
 </div>
-
-## 2024.2
-### Curso de Python
-- [Curso de Python para Ciência de Dados](https://github.com/icmc-data/Curso-de-Python-2024)
-
-### Grupos de Estudos
-- Engenharia de Dados
-- Visão Computacional
-- Deep Learning
-- Séries Temporais
-
-## 2024.1
-### Grupos de Estudos
-- [eXplainable AI](https://github.com/icmc-data/xai-group)
-- [Machine Learning Clássico](https://github.com/icmc-data/ml-study-group)
-- [Processamento de Linguagem Natural](https://github.com/icmc-data/nlp-study-group)
-
-### Projetos e Competições 
-- [Steel Plate Defect Prediction](https://www.kaggle.com/competitions/playground-series-s4e3) (01/03 a 31/03)
